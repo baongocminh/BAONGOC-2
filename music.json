@@ -2,12 +2,16 @@
   "random": true,
   "tracks": [
     {
-      "title": "Giọt Lệ Sầu ",
-      "url": "https://ia600400.us.archive.org/34/items/gio-t-le-sa-u/GI%E1%BB%8CT_L%E1%BB%86_S%E1%BA%A6U.wav"
+      "title": "Ngày Chưa Giông Bão ",
+      "url": "https://archive.org/download/dap-mo-cuoc-tinh-clean/Ng%C3%A0y-Ch%C6%B0a-Gi%C3%B4ng-B%C3%A3o_clean.mp3"
     },
     {
-      "title": "GIỌT LỆ SẦU",
-      "url": "https://ia600400.us.archive.org/34/items/gio-t-le-sa-u/GI%E1%BB%8CT_L%E1%BB%86_S%E1%BA%A6U.wav"
+      "title": "Tôi Đã Lắng Nghe",
+      "url": "https://archive.org/download/dap-mo-cuoc-tinh-clean/T%C3%94I%20%C4%90ANG%20L%E1%BA%AENG%20NGHE_clean.mp3"
+    },
+    {
+      "title": "Đắp Mộ Cuộc Tình",
+      "url": "https://archive.org/download/dap-mo-cuoc-tinh-clean/%C4%90%E1%BA%AFp-M%E1%BB%99-Cu%E1%BB%99c-T%C3%ACnh_clean.mp3"
     }
-  ]
+            ]
 }
